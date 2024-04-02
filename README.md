@@ -18,4 +18,4 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 * Overall, DevOps enables organizations to deliver software more quickly and reliably, while improving the quality of their products and services and enabling them to stay competitive in a rapidly changing market.
 
 ## Author
-___[INNOCENT CHARLES UDO](https://github.com/walabouguera996)___
+___[wala bouguera UDO](https://github.com/walabouguera996)___
