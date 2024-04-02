@@ -51,7 +51,7 @@ __Click the "watch video" to play video__ [__watch video__](https://youtu.be/Fx6
 ### Try It On Your Machine :computer:
 
 ```bash
-git clone https://github.com/sammykingx/alx-system_engineering-devops.git
+git clone https://github.com/walabouguera996/alx-system_engineering-devops.git
 cd 0x0E-web_stack_debugging_1
 cat FILENAME
 curl 0:80
